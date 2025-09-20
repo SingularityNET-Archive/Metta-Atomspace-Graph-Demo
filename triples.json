@@ -1,0 +1,17 @@
+[
+  [
+    "Alice",
+    "knows",
+    "Bob"
+  ],
+  [
+    "Bob",
+    "knows",
+    "Charlie"
+  ],
+  [
+    "Alice",
+    "knows",
+    "Charlie"
+  ]
+]
