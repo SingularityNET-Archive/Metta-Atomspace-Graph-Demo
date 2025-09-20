@@ -16,6 +16,12 @@ This project demonstrates how to create, query, and visualize a small graph usin
 - **Export:**  
   The script saves the graph visualization as `graph.png` and the recovered triples as `triples.json`.
 
+## Example Output
+
+Below is an example of the generated graph:
+
+![Graph Visualization](graph.png)
+
 ## Requirements
 
 - Python 3.8+
