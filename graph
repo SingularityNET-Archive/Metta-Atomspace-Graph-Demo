@@ -1,8 +1,0 @@
-digraph AtomSpaceGraph {
-	Bob [label=Bob]
-	Charlie [label=Charlie]
-	Alice [label=Alice]
-	Alice -> Bob [label=knows]
-	Bob -> Charlie [label=knows]
-	Alice -> Charlie [label=knows]
-}
